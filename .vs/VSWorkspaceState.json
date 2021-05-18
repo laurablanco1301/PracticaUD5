@@ -1,4 +1,11 @@
 {
-  "ExpandedNodes": [],
+  "ExpandedNodes": [
+    "",
+    "\\PRACTICAUD5",
+    "\\PRACTICAUD5\\bin",
+    "\\PRACTICAUD5\\obj",
+    "\\PRACTICAUD5\\Properties"
+  ],
+  "SelectedNode": "\\PRACTICAUD5\\Form1.Designer.cs",
   "PreviewInSolutionExplorer": false
 }
